@@ -1,6 +1,6 @@
 # Site settings
 # These are used to personalize your new site.
-title: Brian Diaz Algorithm # your name here
+title: Brian A. Diaz # your name here
 logo: "/images/brian_square.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br /> elements if you don't need line breaks)
   CSCI 496: Senior Portfolio<br />
@@ -9,7 +9,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <br /><br />
   <a href="https://example.com/resume">View My Resume</a>
   <br /><br />
-repository: "csci-csu/csci-portfolio"
+repository: "briandiaz0/briandiaz0.github.io"
 github_username:  briandiaz0 # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
