@@ -6,7 +6,7 @@ Hangman Game Project
 -   **Class:** CSCI 325 - Object-oriented Programming
 -   **Grade:** 94
 -   **Language(s):** C++
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [briandiaz0/Hangman](https://github.com/briandiaz0/Hangman)  
     (Please [email me](mailto:badiaz@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
