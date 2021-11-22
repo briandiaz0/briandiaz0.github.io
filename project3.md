@@ -6,7 +6,7 @@ Single-Cycle-Processor Project
 -   **Class:** CSCI 330 - Computer Architecture
 -   **Grade:** 81
 -   **Language(s):** Verilog
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [briandiaz0/Single_cycle_processor](https://github.com/briandiaz0/Single_cycle_processor)  
     (Please [email me](mailto:badiaz@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
