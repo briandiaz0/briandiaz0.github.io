@@ -51,16 +51,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [OpenMP](/pdf/sample_presentation.pdf)
+### [OpenMP](/pdf/OpenMP.pdf)
 
-- **Class: CSCI 330** 
+- **Class: CSCI 330 - Dr. Paul West** 
+- **Grade: 96**
+
+
+### [Canva Security Breach of 2019](/pdf/Canva_Security_Breach.pdf)
+
+- **Class: CSCI 301 - Mr. Michael** 
 - **Grade: 91**
-
-
-### [Canva Security Breach of 2019](/pdf/sample_presentation.pdf)
-
-- **Class: CSCI 301** 
-- **Grade: 100**
 
 ---
 
