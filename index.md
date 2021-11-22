@@ -31,36 +31,36 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ad blocking](/pdf/sample_presentation.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 235-624 - Dr. Sean Hayes**  
+-   **Grade: 92**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [THERAC-25: Unethical Software Programming](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 315-01 - Dr. Julie Henderson** 
+-   **Grade: 95**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [The Three Ethical Dilemmas](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 325-40 - Dr. Paul West** 
+-   **Grade: 100**
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [OpenMP](/pdf/sample_presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 325-01** 
+- **Grade: 91**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Canva Security Breach of 2019](/pdf/sample_presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 301-01** 
+- **Grade: 100**
 
 ---
 
