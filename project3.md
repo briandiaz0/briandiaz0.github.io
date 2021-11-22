@@ -30,16 +30,16 @@ The launch will show the whole processor trying to work as a whole however not a
 ![screenshot](images/scp_1.PNG)
 Fig 1. The launch screen
 
-![screenshot](images/scp_1.PNG)
+![screenshot](images/scp_2.PNG)
 Fig 2. Example output after test case is processed individually for 64bit AND.
 
-![screenshot](images/scp_1.PNG)
+![screenshot](images/scp_3.PNG)
 Fig 3. Example output after test case is processed individually for 64bit Mux2x1.
 
-![screenshot](images/scp_1.PNG)
+![screenshot](images/scp_4.PNG)
 Fig 4. Example output after test case is processed individually for 64bit Sign-extend.
 
-![screenshot](images/scp_1.PNG)
+![screenshot](images/scp_5.PNG)
 Fig 5. Example output after test case is processed individually for 64bit Ripple.
 
 ## 3. Additional Considerations
