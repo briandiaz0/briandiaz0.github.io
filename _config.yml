@@ -11,7 +11,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <br /><br />
   <a href="/pdf/Brian_resume.pdf">View My Resume</a>
   <br /><br />
-  <a href="https://github.com/briandiaz0/briandiaz0.github.io/blob/master/reflection_essay.md">View My Reflection Essay</a>
+  <a href="/reflection_essay.md">View My Reflection Essay</a>
 repository: "briandiaz0/briandiaz0.github.io"
 github_username:  briandiaz0 # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
