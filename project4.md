@@ -6,7 +6,7 @@ P2P File Transfer Project
 -   **Class:** CSCI 332 - Applied Networking
 -   **Grade:** TBD
 -   **Language(s):** C++
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [briandiaz0/File_transfer](https://github.com/briandiaz0/File_transfer)  
     (Please [email me](mailto:badiaz@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
