@@ -1,43 +1,46 @@
 [Back to Portfolio](./)
 
-HTML Parsing Project
+P2P File Transfer Project
 ===============
 
--   **Class:** CSCI 315 - Data Structure Analysis
--   **Grade:** 89
+-   **Class:** CSCI 332 - Applied Networking
+-   **Grade:** TBD
 -   **Language(s):** C++
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:badiaz@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This File Transfer project is currently in progress. I am currently taking this class and Im about a week to two weeks from completing this course. The file transfer works by connecting each computer together using the UDP client and the server. Once connected they may communicate and see each others messages. The base case is working at the moment which allows the basic communication however the file transfers have yet to be added. Once the file transfer is added it should send files in a matter of seconds.
 
 ## How to compiles / run the program
 
-How to compile (if applicable) and run the project.
+How to compile and run the project (apache and basic network programs must be installed).
 
 ```bash
-cd ./project
-python setup.py
+ctrl + shift + B
+./Server.out
+./Client.out
 ```
+
+This will run the .vscode file which will run the program on visual studio code, on one desktop run ./Server.out and on another desktop run ./Client.out to communicate.
 
 ## UI Design
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+At the moment when the program is run on the server side, a listening port must be chosen (see Fig 1), the listening port may be any combination of 8 digit numbers or less. Once the server is running, the client must be ran on another desktop and the listening port from the server must be inputted as well as the IP (see Fig 2). Once the computer connects sucessfully the desktops will be able to communicate (see Fig 3). The features to be added will be the addition of adding a file and compressing it to send as quickly as possible between the client and server.
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 1. The launch screen
+![screenshot](images/file_1.PNG)
+Fig 1. Example output after server is ran
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 2. Example output after input is processed.
+![screenshot](images/file_2.PNG)
+Fig 2. Example output after client is ran
 
-![screenshot](images/dummy_thumbnail.jpg)
-Fig 3. Feedback when an error occurs.
+![screenshot](images/file_3.PNG)
+Fig 3. Communication has been established
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The program is yet to be completed so the code needs work. If any additional concerns arise they will be added to this section.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
