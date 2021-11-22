@@ -9,22 +9,22 @@ Programming Projects
 ---
 ### [HTML Parsing | CSCI 315](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail - Parsing Intro](images/html_parsing_project.png)
 
 ---
-### [Hangman Game | CSCI 325](project1)
+### [Hangman Game | CSCI 325](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Single-Cycle-Processor | CSCI 330](project1)
-
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail - Hangman Intro](images/hangman_project.png)
 
 ---
-### [P2P File Transfer | CSCI 332](project1)
+### [Single-Cycle-Processor | CSCI 330](project3)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail - Single-Cycle Intro](images/single_cycle_processor_project.png)
+
+---
+### [P2P File Transfer | CSCI 332](project4)
+
+![Project 4 Thumbnail - File Transfer Intro](images/file_transfer_project.png)
 
 ---
 
