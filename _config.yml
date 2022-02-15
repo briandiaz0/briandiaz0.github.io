@@ -13,7 +13,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <br /><br />
   <a href="reflection_essay.md">View My Reflection Essay</a>
   <a href="https://briandiaz0.github.io/reflection_essay.md">View My Reflection Essay</a>
-  ### [HTML Parsing | CSCI 315](reflection_essay.md)
+  [HTML Parsing | CSCI 315](reflection_essay.md)
 repository: "briandiaz0/briandiaz0.github.io"
 github_username:  briandiaz0 # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
